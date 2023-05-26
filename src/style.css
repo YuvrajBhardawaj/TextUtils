@@ -1,0 +1,13 @@
+.navbar{
+    list-style: none;
+    background-color: rgb(182, 251, 251);
+    display: flex;
+    padding: 10px;
+}
+.navbar li{
+    padding: 5px 50px 5px 0;
+    margin-left: 0;
+}
+img{
+    width: 300px;
+}
